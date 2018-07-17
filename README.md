@@ -1,6 +1,6 @@
 An open-source crypto currency exchange
 =====================================
-d
+
 **I'LL BE BACK**
 
 [![Code Climate](https://codeclimate.com/github/peatio/peatio.png)](https://codeclimate.com/github/peatio/peatio)
