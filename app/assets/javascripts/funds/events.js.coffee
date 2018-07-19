@@ -1,4 +1,4 @@
-$(window).load ->
+$(window).on ->
 
   # clipboard
   $.subscribe 'deposit_address:create', (event, data) ->
